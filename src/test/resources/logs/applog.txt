@@ -1,0 +1,1 @@
+INFO    2022-03-20 15:47:25,609 [main] com.practice.tests.BaseTest  - Config properties file loaded
